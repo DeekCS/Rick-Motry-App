@@ -5,6 +5,7 @@ import styles from "./Card.module.scss";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap";
 
+
 const Card = ({ page, results }) => {
     let display;
 
@@ -13,9 +14,9 @@ const Card = ({ page, results }) => {
             let { id, image, name, status, location } = x;
 
             return (
-                <a
+                <Link
                     style={{ textDecoration: "none" }}
-                    href={`${page}${id}`}
+                    to={`${page}${id}`}
                     key={id}
                     className="col-lg-4 col-md-6 col-sm-6 col-12 mb-4 position-relative text-dark"
                 >
@@ -59,7 +60,7 @@ const Card = ({ page, results }) => {
                             );
                         }
                     })()}
-                </a>
+                </Link>
             );
         });
     } else {
