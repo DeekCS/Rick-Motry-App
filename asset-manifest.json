@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rick-motry-app/static/css/main.c964f7c8.chunk.css",
+    "main.js": "/rick-motry-app/static/js/main.d891738c.chunk.js",
+    "main.js.map": "/rick-motry-app/static/js/main.d891738c.chunk.js.map",
+    "runtime-main.js": "/rick-motry-app/static/js/runtime-main.01102e26.js",
+    "runtime-main.js.map": "/rick-motry-app/static/js/runtime-main.01102e26.js.map",
+    "static/css/2.4659568d.chunk.css": "/rick-motry-app/static/css/2.4659568d.chunk.css",
+    "static/js/2.d9eec1a4.chunk.js": "/rick-motry-app/static/js/2.d9eec1a4.chunk.js",
+    "static/js/2.d9eec1a4.chunk.js.map": "/rick-motry-app/static/js/2.d9eec1a4.chunk.js.map",
+    "static/js/3.09c20cf4.chunk.js": "/rick-motry-app/static/js/3.09c20cf4.chunk.js",
+    "static/js/3.09c20cf4.chunk.js.map": "/rick-motry-app/static/js/3.09c20cf4.chunk.js.map",
+    "index.html": "/rick-motry-app/index.html",
+    "static/css/2.4659568d.chunk.css.map": "/rick-motry-app/static/css/2.4659568d.chunk.css.map",
+    "static/css/main.c964f7c8.chunk.css.map": "/rick-motry-app/static/css/main.c964f7c8.chunk.css.map",
+    "static/js/2.d9eec1a4.chunk.js.LICENSE.txt": "/rick-motry-app/static/js/2.d9eec1a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01102e26.js",
+    "static/css/2.4659568d.chunk.css",
+    "static/js/2.d9eec1a4.chunk.js",
+    "static/css/main.c964f7c8.chunk.css",
+    "static/js/main.d891738c.chunk.js"
+  ]
+}
